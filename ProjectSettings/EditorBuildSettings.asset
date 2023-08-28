@@ -5,15 +5,15 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/GamePage02 - Copy.unity
     guid: ee804ae677d052c45a2a00805382fd34
   - enabled: 1
-    path: Assets/Scenes/GamePage01.unity
-    guid: 3505a2dad91f03a4cb6db743f004e105
-  - enabled: 1
     path: Assets/Scenes/HomePage.unity
     guid: 53f4adb7b905a79478d5e59f7ec7f16b
+  - enabled: 1
+    path: Assets/Scenes/GamePage01.unity
+    guid: 3505a2dad91f03a4cb6db743f004e105
   - enabled: 1
     path: Assets/Scenes/GamePage.unity
     guid: 9843d6242f5547f40a53d08aad721af8
@@ -29,4 +29,25 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SettinsPage.unity
     guid: bd66d7e7b8541774084e38bc9c42e068
+  - enabled: 1
+    path: Assets/Scenes/GamePage02.unity
+    guid: c039afbac7fc9a24bb250b55010d3493
+  - enabled: 1
+    path: Assets/Scenes/GamePage03.unity
+    guid: 2543c4c14f1976d4b9f3a13601d173ad
+  - enabled: 1
+    path: Assets/Scenes/GamePage04.unity
+    guid: e683600f3b1bbfe4c98a70b25606ee7f
+  - enabled: 1
+    path: Assets/Scenes/GamePage05.unity
+    guid: e745b6d786654b84692222fe6baeab53
+  - enabled: 1
+    path: Assets/Scenes/GamePage06.unity
+    guid: 60801bb622c540e4fa4df06ec2b3ed8e
+  - enabled: 1
+    path: Assets/Scenes/GamePage07.unity
+    guid: 09c43e99a6197c249b3c7763e83c08d0
+  - enabled: 1
+    path: Assets/Scenes/GamePage08.unity
+    guid: e6cdc8576d6d31a4484c12ca57d389c1
   m_configObjects: {}

@@ -891,7 +891,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 550981ea42015654ba220db11cec3415, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 9c6eebd39e3a8b74ba6807823d26f3ad, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1658,7 +1658,7 @@ MonoBehaviour:
         m_CallState: 2
       - m_Target: {fileID: 537043204}
         m_TargetAssemblyTypeName: LevelManager, Assembly-CSharp
-        m_MethodName: changeScene7
+        m_MethodName: changeScene
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -2150,7 +2150,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &886172394
 RectTransform:
   m_ObjectHideFlags: 0
@@ -5157,7 +5157,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: f13f917545b29e8458abf5bf9ae16321, type: 3}
+  m_Sprite: {fileID: 21300000, guid: dc259012749522f4d8ea2c184810b917, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
