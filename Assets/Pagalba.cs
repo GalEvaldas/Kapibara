@@ -23,16 +23,16 @@ public class Pagalba : MonoBehaviour
         if (spRend.enabled)
         {
             pair.GetComponent<SpriteRenderer>().enabled = true;
-            gameObject.GetComponent<BoxCollider2D>().enabled = false;
-            pair.GetComponent<BoxCollider2D>().enabled = false;
-            DifferenceClicked();
+       //     gameObject.GetComponent<BoxCollider2D>().enabled = false;
+         //   pair.GetComponent<BoxCollider2D>().enabled = false;
+          //  DifferenceClicked();
         }
         else
         {
             spRend.enabled = true;
             gameObject.GetComponent<BoxCollider2D>().enabled = false;
             pair.GetComponent<BoxCollider2D>().enabled = false;
-            DifferenceClicked();
+           //  DifferenceClicked();
         }
     }
 }
