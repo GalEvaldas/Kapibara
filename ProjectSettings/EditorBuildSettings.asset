@@ -6,8 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/Scenes/GamePage02 - Copy.unity
-    guid: ee804ae677d052c45a2a00805382fd34
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/levels/GamePage001.unity
+    guid: a01c56f7f93fa3146aa28bb56929a9b6
   - enabled: 1
     path: Assets/Scenes/HomePage.unity
     guid: 53f4adb7b905a79478d5e59f7ec7f16b
