@@ -19,39 +19,39 @@ public class LevelManager : MonoBehaviour
     }
     public void changeScene()
     {
-        SceneManager.LoadScene("HomePage");
+        SceneManager.LoadScene("GamePage001");
     }
     public void changeScene2()
     {
-        SceneManager.LoadScene("GamePage");
+        SceneManager.LoadScene("GamePage002");
     }
     public void changeScene3()
     {
-        SceneManager.LoadScene("SettinsPage");
+        SceneManager.LoadScene("GamePage003");
     }
     public void changeScene4()
     {
-        SceneManager.LoadScene("GamePage01");
+        SceneManager.LoadScene("GamePage004");
     }
     public void changeScene5()
     {
-        SceneManager.LoadScene("GamePage02");
+        SceneManager.LoadScene("GamePage005");
     }
     public void changeScene6()
     {
-        SceneManager.LoadScene("GamePage03");
+        SceneManager.LoadScene("GamePage006");
     }
     public void changeScene7()
     {
-        SceneManager.LoadScene("GamePage04");
+        SceneManager.LoadScene("GamePage007");
     }
     public void changeScene8()
     {
-        SceneManager.LoadScene("GamePage05");
+        SceneManager.LoadScene("GamePage008");
     }
     public void changeScene9()
     {
-        SceneManager.LoadScene("GamePage06");
+        SceneManager.LoadScene("GamePage009");
     }
     public void changeScene10()
     {
@@ -67,6 +67,6 @@ public class LevelManager : MonoBehaviour
     }
     public void changeScene13()
     {
-        SceneManager.LoadScene("GamePage10");
+        SceneManager.LoadScene("HomePage");
     }
 }

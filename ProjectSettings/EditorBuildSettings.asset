@@ -9,15 +9,15 @@ EditorBuildSettings:
     path: 
     guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/levels/GamePage001.unity
-    guid: a01c56f7f93fa3146aa28bb56929a9b6
-  - enabled: 1
     path: Assets/Scenes/HomePage.unity
     guid: 53f4adb7b905a79478d5e59f7ec7f16b
   - enabled: 1
     path: Assets/Scenes/GamePage01.unity
     guid: 3505a2dad91f03a4cb6db743f004e105
   - enabled: 1
+    path: Assets/Scenes/levels/GamePage001.unity
+    guid: a01c56f7f93fa3146aa28bb56929a9b6
+  - enabled: 0
     path: Assets/Scenes/GamePage.unity
     guid: 9843d6242f5547f40a53d08aad721af8
   - enabled: 0
@@ -29,28 +29,52 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/my2.unity
     guid: debd8b81c0fac844aab5e9a4970b6eee
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SettinsPage.unity
     guid: bd66d7e7b8541774084e38bc9c42e068
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/GamePage02.unity
     guid: c039afbac7fc9a24bb250b55010d3493
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/GamePage03.unity
     guid: 2543c4c14f1976d4b9f3a13601d173ad
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/GamePage04.unity
     guid: e683600f3b1bbfe4c98a70b25606ee7f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/GamePage05.unity
     guid: e745b6d786654b84692222fe6baeab53
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/GamePage06.unity
     guid: 60801bb622c540e4fa4df06ec2b3ed8e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/GamePage07.unity
     guid: 09c43e99a6197c249b3c7763e83c08d0
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/GamePage08.unity
     guid: e6cdc8576d6d31a4484c12ca57d389c1
+  - enabled: 1
+    path: Assets/Scenes/levels/GamePage002.unity
+    guid: 90162f9f1a4d7f34087e89494456a913
+  - enabled: 1
+    path: Assets/Scenes/levels/GamePage003.unity
+    guid: 75eec73a266d2c4459f64f736d09d33d
+  - enabled: 1
+    path: Assets/Scenes/levels/GamePage004.unity
+    guid: 2eff078d156981e4c93ae9680cbb6594
+  - enabled: 1
+    path: Assets/Scenes/levels/GamePage005.unity
+    guid: e4cd3028ab6f6c046adae6a06baf9401
+  - enabled: 1
+    path: Assets/Scenes/levels/GamePage006.unity
+    guid: 3e8b2a355f1d28447a99de9da6b93ffb
+  - enabled: 1
+    path: Assets/Scenes/levels/GamePage007.unity
+    guid: c8a7a7bb1cc839a4e81c501dbf2930ac
+  - enabled: 1
+    path: Assets/Scenes/levels/GamePage008.unity
+    guid: 108a35108a3aeae49be575df23af531f
+  - enabled: 1
+    path: Assets/Scenes/levels/GamePage009.unity
+    guid: 99ea6832e150fad4595dc793ec10bc82
   m_configObjects: {}

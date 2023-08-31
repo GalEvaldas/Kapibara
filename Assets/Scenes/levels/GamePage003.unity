@@ -1034,7 +1034,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: b5209c93f4812af409ac22fdd9cf76a7, type: 3}
+  m_Sprite: {fileID: 21300000, guid: a09330f24c53c7842b455e382c06a2a9, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1222,7 +1222,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 359850624}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.03, y: 1.9, z: 0}
+  m_LocalPosition: {x: -0.03, y: -2.49, z: 0}
   m_LocalScale: {x: 0.06114838, y: 0.06114838, z: 0.06114838}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1801,7 +1801,7 @@ MonoBehaviour:
         m_CallState: 2
       - m_Target: {fileID: 537043204}
         m_TargetAssemblyTypeName: LevelManager, Assembly-CSharp
-        m_MethodName: changeScene8
+        m_MethodName: changeScene4
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1949,7 +1949,7 @@ MonoBehaviour:
         m_CallState: 2
       - m_Target: {fileID: 559333735}
         m_TargetAssemblyTypeName: LevelManager, Assembly-CSharp
-        m_MethodName: changeScene
+        m_MethodName: changeScene13
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -3137,7 +3137,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1045262376}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0, y: 1.98, z: 0}
+  m_LocalPosition: {x: -0.47, y: 1.24, z: 0}
   m_LocalScale: {x: 0.140326, y: 0.140326, z: 0.140326}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -5069,7 +5069,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2010062797}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2, y: -296, z: -31732.732}
+  m_LocalPosition: {x: -121, y: -557, z: -31732.732}
   m_LocalScale: {x: 35.02794, y: 39.74504, z: 49.476955}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -5300,7 +5300,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: c077e7bf13a14584085398c2892dbf54, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 41d52caf5b9226b4eaf623848f16e185, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1

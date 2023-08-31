@@ -1034,7 +1034,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: b5209c93f4812af409ac22fdd9cf76a7, type: 3}
+  m_Sprite: {fileID: 21300000, guid: ffcd4ba4e005d2c4696b38b88d3a15d2, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1801,7 +1801,7 @@ MonoBehaviour:
         m_CallState: 2
       - m_Target: {fileID: 537043204}
         m_TargetAssemblyTypeName: LevelManager, Assembly-CSharp
-        m_MethodName: changeScene8
+        m_MethodName: changeScene6
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1949,7 +1949,7 @@ MonoBehaviour:
         m_CallState: 2
       - m_Target: {fileID: 559333735}
         m_TargetAssemblyTypeName: LevelManager, Assembly-CSharp
-        m_MethodName: changeScene
+        m_MethodName: changeScene13
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -5300,7 +5300,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: c077e7bf13a14584085398c2892dbf54, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 563fef7de4a004b4d867337dc19960ab, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1

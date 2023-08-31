@@ -1034,7 +1034,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: b5209c93f4812af409ac22fdd9cf76a7, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 9c6eebd39e3a8b74ba6807823d26f3ad, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1696,7 +1696,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &537043203
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1888,7 +1888,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -253, y: -384}
+  m_AnchoredPosition: {x: 4, y: -384}
   m_SizeDelta: {x: 116.6, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &559333732
@@ -1949,7 +1949,7 @@ MonoBehaviour:
         m_CallState: 2
       - m_Target: {fileID: 559333735}
         m_TargetAssemblyTypeName: LevelManager, Assembly-CSharp
-        m_MethodName: changeScene
+        m_MethodName: changeScene13
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -5300,7 +5300,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: c077e7bf13a14584085398c2892dbf54, type: 3}
+  m_Sprite: {fileID: 21300000, guid: dc259012749522f4d8ea2c184810b917, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
