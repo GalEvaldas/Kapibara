@@ -77,4 +77,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/levels/GamePage009.unity
     guid: 99ea6832e150fad4595dc793ec10bc82
+  - enabled: 1
+    path: Assets/Scenes/LevelsPage.unity
+    guid: 287c1a7b4b96a14488f50c4223c8fbac
   m_configObjects: {}

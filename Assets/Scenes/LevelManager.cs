@@ -69,4 +69,8 @@ public class LevelManager : MonoBehaviour
     {
         SceneManager.LoadScene("HomePage");
     }
+    public void changeScene14()
+    {
+        SceneManager.LoadScene("LevelsPage");
+    }
 }
